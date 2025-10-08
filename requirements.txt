@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+requests
+pytest
+httpx
+python-multipart
+SQLAlchemy
